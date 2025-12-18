@@ -1,0 +1,17 @@
+{
+  "accountAssociation": {
+    "header": "REPLACE_AFTER_SIGNING",
+    "payload": "REPLACE_AFTER_SIGNING",
+    "signature": "REPLACE_AFTER_SIGNING"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Base Soul",
+    "iconUrl": "https://your-app.vercel.app/icon.png",
+    "homeUrl": "https://your-app.vercel.app",
+    "imageUrl": "https://your-app.vercel.app/api/og?default=true",
+    "buttonTitle": "Reveal My Soul",
+    "splashImageUrl": "https://your-app.vercel.app/splash.png",
+    "splashBackgroundColor": "#0a0a0f"
+  }
+}

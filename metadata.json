@@ -1,0 +1,5 @@
+{
+  "name": "Base-Soul-visual",
+  "description": "A Farcaster Mini App that analyzes a user's activity to generate a unique Soul Color, visual aura, and Archetype with explainable reasoning.",
+  "requestFramePermissions": []
+}
